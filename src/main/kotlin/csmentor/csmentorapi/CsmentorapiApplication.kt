@@ -1,11 +1,11 @@
-package CSMentorGroup.CSMentorDemoPackage
+package csmentor.csmentorapi
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class CsMentorDemoApplication
+class CsmentorapiApplication
 
 fun main(args: Array<String>) {
-	runApplication<CsMentorDemoApplication>(*args)
+    runApplication<CsmentorapiApplication>(*args)
 }

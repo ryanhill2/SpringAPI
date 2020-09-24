@@ -1,13 +1,13 @@
-package CSMentorGroup.CSMentorDemoPackage
+package csmentor.csmentorapi
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class CsMentorDemoApplicationTests {
+class CsmentorapiApplicationTests {
 
-	@Test
-	fun contextLoads() {
-	}
+    @Test
+    fun contextLoads() {
+    }
 
 }
